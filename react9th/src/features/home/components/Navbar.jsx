@@ -1,10 +1,10 @@
-import React from 'react'
+
 
 const Navbar = () => {
   return (
    
         <div style={{ border: "1px solid black", padding: "16px", display: "flex",
-        justifyContent: "space-between" }}>
+        justifyContent: "space-between" ,}}>
             <h2>MyBrand</h2>
             <div>
                 <span>Home</span>
